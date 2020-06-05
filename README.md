@@ -19,6 +19,15 @@ GitHub describes itself as "a development platform inspired by the way you work.
 To get a sense of the variety of projects that are shared on GitHub, let's do a search for the term "genomics" and look at a few projects. 
 
 ## GitHub benefits
+- de facto standard for sharing code
+- incentive to learn and use git (and all of it's benefits)
+- incentive to adopt good project organization practices
+- facilitates collaboration
+- facilitates code re-use and reproducibility
+- provides metrics
+- many value-added features like GitHub pages, GitHub projects, integration with tools like
+
+Footnote: also consider Bitbucket and GitLab which offer 
 
 ## Markdown
 A basic requirement of using Github is familiarity with editing documents with MarkDown.
@@ -28,3 +37,13 @@ When these Markdown documents are saved in a GitHub repository, the platform wil
 This short tutorial will teach you the basics: https://www.markdowntutorial.com/  
 This cheatsheet is also useful: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+## Creating a repository
+Use the pulldown next to the "+" on the top right corner of the screen
+
+## Exercise
+This exercise uses a demo project from Project TIER. Download the files from here: https://www.projecttier.org/tier-protocol/demo-project/. We will discuss why the demo project is organized the way it is.
+
+Unzip the file and copy them to a new GitHub repository. In order to create directories, you will need to create placeholder readme.md files, which I will demonstrate. When you use git locally, transferring a project to GitHub is automated and can be done from the command line, using a gui tool, or using built-in functionality in an IDE.
+
+## Next Steps
+Future workshops will focus on using git and building websites using GitHub pages. Are there other topics you areinterested in?
