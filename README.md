@@ -22,6 +22,6 @@ A basic requirement of using Github is familiarity with editing documents with M
 MarkDown is a lightweight markup language that allows you to create formatted documents using only plain text.
 When these Markdown documents are saved in a GitHub repository, the platform will automatically render them with formatting.
 
-This short tutorial will teach you the basics: https://www.markdowntutorial.com/
-This cheatsheet is useful, as well: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+This short tutorial will teach you the basics: https://www.markdowntutorial.com/  
+This cheatsheet is also useful: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
