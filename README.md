@@ -38,7 +38,7 @@ This short tutorial will teach you the basics: https://www.markdowntutorial.com/
 This cheatsheet is also useful: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Creating a repository
-Use the pulldown next to the "+" on the top right corner of the screen.
+Use the pulldown next to the "+" on the top right corner of the screen. In addition to specifying a name, you have several options to consider. You may designate whether you want your repository to be public or private, whether you want to specify a particular license for your repository contents, and whether you want a README.md file created automatically. All of these can be changed later, so it isn't critical that you make up your mind immediately. 
 
 ## Exercise
 This exercise uses a demo project from Project TIER. Download the files from here: https://www.projecttier.org/tier-protocol/demo-project/. We will discuss why the demo project is organized the way it is.
